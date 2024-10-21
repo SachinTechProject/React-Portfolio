@@ -56,12 +56,12 @@ export default function Projects() {
 
          <div className="col-lg-3 py-4  col-md-6 col-sm-12">
          <div>
-              <div className="card" style={{width: '19rem'}}>
-                 <img src="https://www.kayak.co.in/news/wp-content/uploads/sites/76/2023/08/THEME_HOTEL_SIGN_FIVE_STARS_FACADE_BUILDING_GettyImages-1320779330-3.jpg" style={{height:'14.2rem'}} class="card-img-top" alt="..."/>
+         <div className="card" style={{width: '19rem'}}>
+                 <img src="https://mir-s3-cdn-cf.behance.net/projects/404/49f28e189617081.Y3JvcCwxMDA2LDc4NywxOTYsMA.jpg" style={{height:'14.2rem'}} class="card-img-top" alt="..."/>
                    <div className="card-body">
                       <p className="card-text">
-                      <h5 className='pb-3'>React-videos</h5>
-                      <a href='https://sachintechproject.github.io/hotel-projects/' target='_blank' className='bg-blue-500  text-decoration-none text-white px-4 py-2 border-none rounded font-semibold'>See</a>
+                      <h5 className='pb-3'>My Portfolio</h5>
+                      <a href='https://react-portfolio-pi-five.vercel.app/' target='_blank' className='bg-blue-500  text-decoration-none text-white px-4 py-2 border-none rounded font-semibold'>See</a>
                       </p>
                    </div>
               </div>
